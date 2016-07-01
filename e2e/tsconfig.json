@@ -13,5 +13,8 @@
     "sourceMap": true,
     "sourceRoot": "/",
     "target": "es5"
+	"files": [
+	  "node_modules/angularfire2/firebase3.d.ts"
+	]
   }
 }
